@@ -1,7 +1,3 @@
-Sure! Here's a README file for your project.
-
----
-
 # User Management System
 
 This project is a simple PHP-based user management system that allows you to add users, retrieve user information, and wipe user data from a MySQL database. It consists of two main pages:
